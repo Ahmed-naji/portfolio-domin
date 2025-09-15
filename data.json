@@ -1,0 +1,145 @@
+{
+  "dataProjcets": {
+    "en": [
+      {
+        "id": 0,
+        "title": "Yemen Immigration & Passport Services Platform",
+        "text": "A digital platform in Yemen that provides immigration and passport services online. It simplifies the process of applying for passports, visa requests, residency permits, and allows applicants to track their requests with real-time status updates.",
+        "img": ["/images/projects/2.png", "/images/projects/1.png", "/images/projects/3.png", "/images/projects/4.png", "/images/projects/5.png"],
+        "tec": ["React", "Laravel", "PHP", "MySQL", "CSS", "REST API"],
+        "fea": [
+          "Online passport application",
+          "Visa request management",
+          "Residency permit services",
+          "Application tracking with notifications",
+          "Admin dashboard for approvals"
+        ],
+        "domin": "https://immigration-yemen.com",
+        "gethub": "https://github.com/yourname/immigration-passport"
+      },
+      {
+        "id": 1,
+        "title": "Mahasil Platform for Farmers",
+        "text": "A digital platform designed to help farmers manage their farms, showcase their products, and participate in agricultural events. Farmers can post products for sale, announce participation in events like vegetable or livestock exhibitions, and get high-priority advertisements. The platform also includes real-time notifications, messaging tools, and an analytics dashboard to optimize farm management.",
+        "img": [
+          "/images/projects/mahasil_1.jpg",
+          "/images/projects/mahasil_2.jpg",
+          "/images/projects/mahasil_3.jpg",
+          "/images/projects/mahasil_4.jpg",
+          "/images/projects/mahasil_5.jpg",
+          "/images/projects/mahasil_6.jpg",
+          "/images/projects/mahasil_7.jpg"
+        ],
+        "tec": ["HTML", "SCC", "JavaScript", "PHP", "MySQL"],
+        "fea": [
+          "Product listing and sales management",
+          "Event participation announcements",
+          "High-priority advertisements for selected products or events",
+          "Real-time notifications for new events and sales",
+          "Farmer dashboard with analytics and messaging tools",
+          "Admin panel for approvals and content management"
+        ],
+        "domin": "https://mahasil.com",
+        "gethub": "https://github.com/yourname/mahasil"
+      }
+    ],
+    "ar": [
+      {
+        "id": 0,
+        "title": "منصة خدمات الهجرة والجوازات اليمنية",
+        "text": "منصة رقمية في اليمن تقدم خدمات الهجرة والجوازات عبر الإنترنت، تسهّل إجراءات التقديم على الجوازات وطلبات التأشيرات وتصاريح الإقامة، وتمكّن المتقدمين من متابعة طلباتهم بشكل لحظي.",
+        "img": ["/images/projects/2.png", "/images/projects/1.png", "/images/projects/3.png", "/images/projects/4.png", "/images/projects/5.png"],
+        "tec": ["React", "Laravel", "PHP", "MySQL", "CSS", "REST API"],
+        "fea": [
+          "تقديم طلب جواز سفر إلكترونيًا",
+          "إدارة طلبات التأشيرات",
+          "خدمات تصاريح الإقامة",
+          "متابعة حالة الطلب مع إشعارات",
+          "لوحة تحكم للإدارة والموافقة"
+        ],
+        "domin": "https://immigration-yemen.com",
+        "gethub": "https://github.com/yourname/immigration-passport"
+      },
+      {
+        "id": 1,
+        "title": "منصة Mahasil للمزارعين",
+        "text": "منصة رقمية مصممة لمساعدة المزارعين في إدارة مزرعتهم، عرض منتجاتهم، والمشاركة في الفعاليات الزراعية. يمكن للمزارعين نشر منتجات للبيع، الإعلان عن مشاركتهم في فعاليات مثل معارض الخضار أو المواشي، والحصول على إعلانات ذات أولوية عالية. كما تتضمن المنصة إشعارات فورية، أدوات الرسائل، ولوحة تحليلات لتحسين إدارة النشاط الزراعي.",
+        "img": [
+          "/images/projects/mahasil_1.jpg",
+          "/images/projects/mahasil_2.jpg",
+          "/images/projects/mahasil_3.jpg",
+          "/images/projects/mahasil_4.jpg",
+          "/images/projects/mahasil_5.jpg",
+          "/images/projects/mahasil_6.jpg",
+          "/images/projects/mahasil_7.jpg"
+        ],
+        "tec": ["HTML", "SCC", "JavaScript", "PHP", "MySQL"],
+        "fea": [
+          "إدارة وعرض المنتجات للبيع",
+          "الإعلان عن المشاركة في الفعاليات",
+          "إعلانات ذات أولوية عالية للمنتجات أو الفعاليات المحددة",
+          "إشعارات فورية للفعاليات والمبيعات الجديدة",
+          "لوحة تحكم المزارع مع أدوات التحليل والرسائل",
+          "لوحة إدارة للمسؤولين للموافقة وإدارة المحتوى"
+        ],
+        "domin": "https://mahasil.com",
+        "gethub": "https://github.com/yourname/mahasil"
+      }
+      
+    ]
+  },
+  "dataCertificates": {
+    "en": [
+      {
+        "id": 1,
+        "title": "Bachelor's degree in Information Technology",
+        "img": "/images/projects/photo.jpg"
+      }],
+    "ar": [
+      { 
+        "id": 1,
+        "title": "بكالوريوس في تكنولوجيا المعلومات",
+        "img": "/images/projects/photo.jpg"
+      }]
+  },
+  "dataProjectSoft": {
+    "en": [
+      {
+        "id": 0,
+        "title": "Projects",
+        "text": "ldlrl krlel ske kek fd dd dd",
+        "img": ["/images/projects/1.png", "/images/projects/2.png"],
+        "tec": ["React", "Node.js", "PHP", "Laravel", "CSS"],
+        "fea": ["ansn ldl", "dmmdr, llsldl edjej eme"],
+        "domin": "https://project.com",
+        "gethub": "https://GetHub.com/project"
+      }
+    ],
+    "ar": [
+      {
+        "id": 0,
+        "title": "المشاريع",
+        "text": "ldlrl krlel ske kek fd dd dd",
+        "img": ["/images/projects/1.png", "/images/projects/2.png"],
+        "tec": ["React", "Node.js", "PHP", "Laravel", "CSS"],
+        "fea": ["ansn ldl", "dmmdr, llsldl edjej eme"],
+        "domin": "https://project.com",
+        "gethub": "https://GetHub.com/project"
+      }
+    ]
+  },
+  "dataCardComment": {
+    "en": [
+      { "id": 2, "img": "/images/a.webp", "date": "11-7-2025", "name": "Nasser", "content": "So beautiful, I loved it 😍" },
+      { "id": 3, "img": "/images/a.webp", "date": "12-7-2025", "name": "Salh", "content": "Keep up the great job" },
+      { "id": 4, "img": "/images/a.webp", "date": "13-7-2025", "name": "Husam", "content": "Will work together soon" },
+      { "id": 5, "img": "/images/ahmed.webp", "date": "14-7-2025", "name": "Ahmed", "content": "Thank you guys" }
+    ],
+    "ar": [
+      { "id": 2, "img": "/images/a.webp", "date": "11-7-2025", "name": "ناصر", "content": "رائع جدًا 😍" },
+      { "id": 3, "img": "/images/a.webp", "date": "12-7-2025", "name": "صالح", "content": "استمر يا بطل" },
+      { "id": 4, "img": "/images/a.webp", "date": "13-7-2025", "name": "حسام", "content": "سنشتغل معًا قريبًا" },
+      { "id": 5, "img": "/images/ahmed.webp", "date": "14-7-2025", "name": "أحمد", "content": "شكرًا لكم" }
+    ]
+  }
+}
